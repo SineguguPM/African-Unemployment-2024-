@@ -8,7 +8,7 @@ The goals of this project are to:
 •Use tools to extract patterns and generate insights
 
 Data Description:
-•Source: The dataset used in this analysis is based on 2024 country-level unemployment data sourced from The Global Economy, which provides country-level unemployment rates across African nations for the year 2024.
+•Source: The dataset used in this analysis is based on 2024 country-level unemployment data sourced from The Global Economy (https://www.theglobaleconomy.com/rankings/unemployment_rate/Africa/), which provides country-level unemployment rates across African nations for the year 2024.
 •Table: AfricanUnemployment
 •Rows: 500
 •Columns:
