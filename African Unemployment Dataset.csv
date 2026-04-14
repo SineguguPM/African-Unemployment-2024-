@@ -1,0 +1,501 @@
+Country,Region,Age_Group,Gender,Education_Level,Area,Marital_Status,Years_of_Experience,Experience Level,Internet_Access,Reason for Unemployment,Unemployment_Rate
+Benin,West Africa,25-34,Female,Primary,Rural,Divorced,3,Mid Level,Yes,No jobs available,2.02
+Malawi,Southern Africa,45-54,Female,Tertiary,Rural,Widowed,27,Senior,No,Lack of skills,6.55
+Nigeria,West Africa,45-54,Female,Primary,Urban,Married,16,Senior,No,Health issues,1.82
+Cape Verde,West Africa,55-64,Female,No formal education,Urban,Married,16,Senior,No,No jobs available,5.58
+Nigeria,West Africa,15-24,Female,Secondary,Rural,Single,1,Entry Level,Yes,Family responsibilities,10.53
+Ghana,West Africa,35-44,Male,Secondary,Rural,Married,9,Mid Level,No,Lack of capital,2.61
+Libya,North Africa,15-24,Female,Secondary,Urban,Single,1,Entry Level,Yes,Training,47.53
+Angola,Central Africa,15-24,Female,Primary,Rural,Single,0,Entry Level,No,No jobs available,36.65
+Sao Tome and Principe,Central Africa,55-64,Male,Tertiary,Urban,Widowed,40,Senior,Yes,Skills mismatch,8.36
+Mali,West Africa,15-24,Female,No formal education,Urban,Single,2,Mid Level,Yes,Lack of money,4.65
+Algeria,North Africa,55-64,Male,Tertiary,Rural,Married,16,Senior,Yes,Lost hope,13.06
+Uganda,East Africa,25-34,Male,Secondary,Rural,Divorced,11,Senior,Yes,No jobs available,4.36
+Malawi,Southern Africa,25-34,Female,Primary,Urban,Widowed,10,Mid Level,Yes,Health issues,4.69
+Mali,West Africa,45-54,Male,Primary,Rural,Married,22,Senior,No,Lack of skills,1.71
+Angola,Central Africa,45-54,Male,No formal education,Rural,Married,17,Senior,No,No jobs available,6.53
+Mauritius,East Africa,45-54,Male,Secondary,Rural,Married,14,Senior,No,Family responsibilities,4.64
+Sao Tome and Principe,Central Africa,35-44,Male,Secondary,Urban,Married,9,Mid Level,Yes,Skills mismatch,6.54
+Somalia,East Africa,35-44,Female,Tertiary,Urban,Married,16,Senior,Yes,Training,22.21
+Cape Verde,West Africa,45-54,Male,Secondary,Urban,Married,23,Senior,Yes,Lack of capital,7.1
+DR Congo,Central Africa,15-24,Male,Primary,Urban,Widowed,4,Mid Level,Yes,No jobs available,6.87
+South Africa,Southern Africa,15-24,Female,Tertiary,Urban,Single,0,Entry Level,Yes,Lack of money,60
+Sao Tome and Principe,Central Africa,45-54,Female,No formal education,Rural,Married,15,Senior,No,No jobs available,4.8
+Gabon,Central Africa,15-24,Female,Primary,Rural,Married,0,Entry Level,Yes,Lost hope,51.23
+Somalia,East Africa,55-64,Male,Secondary,Rural,Married,25,Senior,Yes,Health issues,17.21
+Guinea,West Africa,35-44,Female,Tertiary,Rural,Divorced,7,Mid Level,No,Lack of skills,8.83
+Comoros,East Africa,55-64,Male,Secondary,Rural,Married,40,Senior,Yes,No jobs available,3.64
+Mauritania,West Africa,55-64,Female,Secondary,Rural,Widowed,35,Senior,No,Training,11.08
+Kenya,East Africa,25-34,Male,No formal education,Rural,Single,9,Mid Level,No,Family responsibilities,4.07
+Ivory Coast,West Africa,35-44,Male,Primary,Rural,Married,16,Senior,No,No jobs available,1.54
+Benin,West Africa,15-24,Male,No formal education,Urban,Married,3,Mid Level,No,Skills mismatch,1.73
+Mozambique,Southern Africa,15-24,Female,Primary,Urban,Single,1,Entry Level,Yes,Lack of capital,6.81
+Uganda,East Africa,35-44,Female,Tertiary,Rural,Married,16,Senior,No,No jobs available,4.19
+South Africa,Southern Africa,35-44,Male,Primary,Rural,Married,21,Senior,No,Health issues,25.17
+Ivory Coast,West Africa,25-34,Male,No formal education,Urban,Divorced,2,Mid Level,No,Lack of money,1.28
+Namibia,Southern Africa,35-44,Female,Secondary,Rural,Married,13,Senior,No,No jobs available,23.86
+Sierra Leone,West Africa,35-44,Male,Secondary,Urban,Widowed,8,Mid Level,Yes,Lack of skills,2.53
+Swaziland,Southern Africa,35-44,Male,No formal education,Rural,Married,22,Senior,No,Family responsibilities,19.26
+Namibia,Southern Africa,35-44,Male,No formal education,Rural,Married,17,Senior,No,No jobs available,10.34
+Botswana,Southern Africa,45-54,Male,Secondary,Rural,Married,18,Senior,No,Training,18.66
+Madagascar,East Africa,55-64,Male,Tertiary,Rural,Married,28,Senior,Yes,Skills mismatch,3.42
+Somalia,East Africa,45-54,Female,Tertiary,Rural,Married,17,Senior,Yes,Lost hope,23.37
+Cameroon,Central Africa,35-44,Male,No formal education,Rural,Married,9,Mid Level,No,No jobs available,1.85
+Djibouti,East Africa,15-24,Female,No formal education,Rural,Married,0,Entry Level,No,Lack of capital,48.68
+Niger,West Africa,55-64,Female,Primary,Urban,Married,20,Senior,Yes,Health issues,0.22
+Niger,West Africa,35-44,Female,No formal education,Rural,Married,16,Senior,No,No jobs available,0.12
+Niger,West Africa,25-34,Female,Secondary,Urban,Married,11,Senior,Yes,Lack of money,0.89
+Mauritania,West Africa,25-34,Male,Tertiary,Urban,Married,10,Mid Level,Yes,Skills mismatch,14.34
+Mauritania,West Africa,15-24,Female,No formal education,Urban,Married,3,Mid Level,No,No jobs available,14.5
+Ghana,West Africa,45-54,Male,Secondary,Rural,Married,20,Senior,Yes,Family responsibilities,2.1
+Equatorial Guinea,Central Africa,15-24,Male,No formal education,Urban,Single,1,Entry Level,No,Training,8.77
+Djibouti,East Africa,35-44,Male,No formal education,Urban,Divorced,13,Senior,Yes,No jobs available,10.38
+Nigeria,West Africa,55-64,Male,Tertiary,Urban,Married,19,Senior,Yes,Lack of skills,2.74
+Djibouti,East Africa,55-64,Male,Primary,Urban,Married,38,Senior,Yes,Health issues,13.14
+Liberia,West Africa,25-34,Male,Secondary,Urban,Married,1,Entry Level,Yes,No jobs available,3.24
+Guinea-Bissau,West Africa,35-44,Female,Secondary,Rural,Married,21,Senior,No,Lost hope,3.48
+Botswana,Southern Africa,15-24,Female,No formal education,Urban,Single,0,Entry Level,No,Lack of capital,32.54
+Zimbabwe,Southern Africa,45-54,Male,No formal education,Urban,Divorced,25,Senior,Yes,No jobs available,2.56
+Burundi,East Africa,35-44,Female,Secondary,Rural,Married,19,Senior,No,Skills mismatch,0.76
+Algeria,North Africa,35-44,Male,Secondary,Urban,Married,7,Mid Level,Yes,Training,8.34
+Tunisia,North Africa,55-64,Male,Primary,Rural,Married,35,Senior,No,No jobs available,10.67
+Lesotho,Southern Africa,45-54,Male,Secondary,Rural,Married,24,Senior,Yes,Family responsibilities,13.24
+Ivory Coast,West Africa,15-24,Male,Primary,Urban,Single,3,Mid Level,Yes,Lack of money,3.28
+Guinea,West Africa,25-34,Female,Secondary,Urban,Single,3,Mid Level,Yes,No jobs available,7.31
+Mauritania,West Africa,45-54,Male,Primary,Rural,Married,25,Senior,No,Health issues,6.17
+Madagascar,East Africa,15-24,Female,Tertiary,Rural,Divorced,2,Mid Level,No,Lack of skills,13.6
+Namibia,Southern Africa,55-64,Female,Primary,Rural,Married,36,Senior,No,No jobs available,15.11
+South Africa,Southern Africa,35-44,Female,No formal education,Rural,Married,9,Mid Level,No,Skills mismatch,22.46
+Comoros,East Africa,45-54,Male,Primary,Rural,Single,19,Senior,No,No jobs available,1.85
+Algeria,North Africa,55-64,Female,Primary,Rural,Married,30,Senior,No,Training,9.52
+Mauritania,West Africa,35-44,Female,Secondary,Urban,Married,8,Mid Level,Yes,Family responsibilities,10.06
+Nigeria,West Africa,35-44,Male,Secondary,Rural,Married,16,Senior,No,No jobs available,2.71
+Chad,Central Africa,15-24,Female,Primary,Rural,Married,0,Entry Level,Yes,Lack of capital,3.03
+Zimbabwe,Southern Africa,25-34,Female,No formal education,Urban,Single,12,Senior,No,Lost hope,6.47
+Mozambique,Southern Africa,55-64,Male,No formal education,Rural,Divorced,20,Senior,Yes,No jobs available,1.5
+Morocco,North Africa,15-24,Female,Tertiary,Urban,Married,0,Entry Level,Yes,Health issues,29
+Botswana,Southern Africa,25-34,Female,No formal education,Urban,Married,2,Mid Level,No,No jobs available,16.59
+Senegal,West Africa,15-24,Male,Tertiary,Urban,Single,0,Entry Level,No,Lack of money,7.66
+Zambia,Southern Africa,45-54,Female,Secondary,Rural,Divorced,27,Senior,No,Skills mismatch,6
+Libya,North Africa,35-44,Male,No formal education,Rural,Married,14,Senior,Yes,No jobs available,10.59
+Benin,West Africa,25-34,Male,No formal education,Urban,Single,7,Mid Level,Yes,Family responsibilities,0.7
+Guinea,West Africa,15-24,Male,No formal education,Rural,Single,0,Entry Level,No,Training,8.46
+Mozambique,Southern Africa,15-24,Male,No formal education,Urban,Single,2,Mid Level,No,No jobs available,4.3
+Mauritius,East Africa,35-44,Male,No formal education,Urban,Single,6,Mid Level,Yes,Lack of skills,1.83
+Mali,West Africa,45-54,Female,Primary,Rural,Married,29,Senior,No,Health issues,1.94
+Guinea-Bissau,West Africa,35-44,Male,Secondary,Rural,Married,14,Senior,Yes,No jobs available,2.34
+Senegal,West Africa,45-54,Female,Tertiary,Urban,Married,16,Senior,No,Lack of capital,3.09
+Swaziland,Southern Africa,45-54,Male,No formal education,Urban,Married,21,Senior,Yes,Skills mismatch,11.01
+Somalia,East Africa,25-34,Male,Secondary,Urban,Married,6,Mid Level,Yes,No jobs available,20.55
+Burundi,East Africa,35-44,Male,Secondary,Rural,Married,12,Senior,No,Lost hope,1.38
+Sao Tome and Principe,Central Africa,35-44,Female,Primary,Rural,Divorced,9,Mid Level,No,Training,8.16
+Botswana,Southern Africa,55-64,Male,Tertiary,Rural,Married,37,Senior,No,No jobs available,26.75
+Namibia,Southern Africa,25-34,Male,Primary,Rural,Married,11,Senior,No,Family responsibilities,20.39
+Benin,West Africa,45-54,Female,Tertiary,Rural,Married,31,Senior,Yes,Lack of money,2.46
+Angola,Central Africa,35-44,Male,Tertiary,Rural,Married,20,Senior,Yes,No jobs available,18.81
+Eritrea,East Africa,55-64,Female,No formal education,Rural,Married,28,Senior,No,Health issues,2.94
+Algeria,North Africa,25-34,Male,Secondary,Rural,Widowed,7,Mid Level,No,Lack of skills,16.78
+Eritrea,East Africa,55-64,Male,No formal education,Urban,Divorced,16,Senior,Yes,No jobs available,2.35
+Eritrea,East Africa,25-34,Male,Secondary,Rural,Single,4,Mid Level,Yes,Skills mismatch,8.35
+Ivory Coast,West Africa,45-54,Male,No formal education,Rural,Married,23,Senior,Yes,No jobs available,0.99
+Morocco,North Africa,15-24,Male,Primary,Rural,Married,3,Mid Level,No,Training,18.05
+Liberia,West Africa,35-44,Male,Primary,Urban,Divorced,19,Senior,Yes,Family responsibilities,1.29
+Zimbabwe,Southern Africa,25-34,Male,No formal education,Urban,Married,5,Mid Level,No,No jobs available,5.07
+Sao Tome and Principe,Central Africa,15-24,Male,Tertiary,Rural,Single,1,Entry Level,No,No job available ,33.27
+Mali,West Africa,55-64,Female,Primary,Rural,Married,40,Senior,No,No jobs available,2.78
+Tunisia,North Africa,35-44,Male,Tertiary,Rural,Married,15,Senior,Yes,Lack of skills,21.12
+Chad,Central Africa,45-54,Female,Primary,Urban,Married,30,Senior,Yes,Health issues,0.46
+Malawi,Southern Africa,45-54,Male,Tertiary,Rural,Widowed,22,Senior,No,Lack of work experience,4.7
+Burkina Faso,West Africa,15-24,Male,Primary,Rural,Single,3,Mid Level,No,Family responsibilities,11.05
+Central African Republic,Central Africa,35-44,Male,Primary,Rural,Divorced,10,Mid Level,No,Nepotism/favoritism,4.62
+Ghana,West Africa,35-44,Female,Tertiary,Rural,Married,12,Senior,Yes,Training,4.47
+Ghana,West Africa,55-64,Male,Tertiary ,Urban,Widowed,28,Senior,No,Overqualification,0.93
+Mauritania,West Africa,25-34,Female,Secondary,Urban,Married,9,Mid Level,Yes,Skills mismatch,14.21
+Zambia,Southern Africa,15-24,Female,No formal education,Rural,Single,0,Entry Level,No,Lack of money,11.07
+Botswana,Southern Africa,35-44,Male,Primary,Urban,Married,21,Senior,Yes,Lost hope,12.79
+Algeria,North Africa,25-34,Female,No formal education,Rural,Married,5,Mid Level,No,Poor internet access,11.44
+South Africa,Southern Africa,25-34,Male,Primary,Rural,Widowed,8,Mid Level,No,No jobs available,35.63
+Mali,West Africa,25-34,Male,Secondary,Urban,Married,8,Mid Level,Yes,Insecurity in region,3.84
+Senegal,West Africa,25-34,Female,Secondary,Rural,Married,6,Mid Level,Yes,Relocation issues,4.96
+Benin,West Africa,35-44,Male,No formal education,Rural,Married,22,Senior,No,Lack of skills,1.09
+Kenya,East Africa,55-64,Male,Tertiary,Rural,Widowed,25,Senior,Yes,Company downsizing,6.04
+South Africa,Southern Africa,45-54,Male,No formal education,Rural,Married,19,Senior,No,Contract job ended,14.41
+Zambia,Southern Africa,25-34,Female,No formal education,Urban,Married,4,Mid Level,Yes,No jobs available,4.29
+Cameroon,Central Africa,15-24,Female,Primary,Urban,Married,2,Mid Level,Yes,Language barrier,6.81
+Republic of Congo,Central Africa,45-54,Female,Tertiary,Rural,Married,17,Senior,No,Health issues,24.65
+Mali,West Africa,15-24,Male,Tertiary,Urban,Married,5,Mid Level,Yes,Cultural restrictions,7.96
+Equatorial Guinea,Central Africa,35-44,Male,Primary,Rural,Married,9,Mid Level,No,Delay in recruitment,6.28
+Ethiopia,East Africa,15-24,Male,Tertiary,Rural,Single,5,Mid Level,Yes,No jobs available,12.45
+Sao Tome and Principe,Central Africa,25-34,Female,Secondary,Urban,Married,10,Mid Level,Yes,Lack of capital,12.04
+Guinea,West Africa,55-64,Female,Secondary,Urban,Married,27,Senior,No,Poor transportation,4.01
+Lesotho,Southern Africa,45-54,Female,Primary,Urban,Divorced,22,Senior,Yes,Skills mismatch,8.74
+Sao Tome and Principe,Central Africa,45-54,Male,Secondary,Rural,Divorced,32,Senior,No,Waiting for government job,7.45
+Eritrea,East Africa,15-24,Male,Tertiary,Urban,Single,0,Entry Level,Yes,No jobs available,15.11
+Mali,West Africa,35-44,Male,Secondary,Rural,Single,7,Mid Level,Yes,Business failure,3.57
+Liberia,West Africa,45-54,Male,Primary,Rural,Married,14,Senior,No,Family responsibilities,1.33
+Benin,West Africa,55-64,Male,Primary,Rural,Married,18,Senior,No,Technological changes,1.32
+Chad,Central Africa,25-34,Male,Tertiary,Rural,Single,8,Mid Level,No,No jobs available,2.49
+Rwanda,East Africa,15-24,Male,Primary,Urban,Single,1,Entry Level,No,Lack of work experience,18.67
+Kenya,East Africa,55-64,Female,Tertiary,Rural,Widowed,32,Senior,No,Training,7.93
+Egypt,North Africa,15-24,Male,Secondary,Rural,Single,0,Entry Level,Yes,Nepotism/favoritism,20.36
+Togo,West Africa,25-34,Female,Secondary,Rural,Married,10,Mid Level,No,No jobs available,3.94
+Algeria,North Africa,15-24,Male,Tertiary ,Rural,Married,1,Entry Level,No,Overqualification,32.44
+Guinea-Bissau,West Africa,55-64,Female,No formal education,Rural,Married,23,Senior,No,Health issues,1.74
+Tanzania,East Africa,55-64,Male,Primary,Rural,Married,32,Senior,No,Migration issues,1.87
+Tunisia,North Africa,25-34,Male,No formal education,Urban,Married,1,Entry Level,No,Skills mismatch,10.13
+Libya,North Africa,25-34,Female,Tertiary,Urban,Married,2,Mid Level,Yes,No jobs available,32.13
+Djibouti,East Africa,35-44,Female,No formal education,Urban,Widowed,22,Senior,No,Lack of money,13.43
+Mozambique,Southern Africa,45-54,Female,Tertiary,Urban,Widowed,15,Senior,No,Contract job ended,3.42
+Republic of Congo,Central Africa,25-34,Female,Tertiary,Rural,Married,4,Mid Level,No,No jobs available,45.6
+Tanzania,East Africa,15-24,Female,No formal education,Urban,Single,3,Mid Level,No,Company downsizing,3.26
+Ethiopia,East Africa,25-34,Female,Tertiary,Rural,Married,3,Mid Level,Yes,Lost hope,7.38
+Ethiopia,East Africa,55-64,Female,Tertiary,Urban,Married,17,Senior,Yes,Poor internet access,3.31
+Mauritania,West Africa,35-44,Male,Secondary,Urban,Divorced,21,Senior,Yes,No jobs available,8.13
+Central African Republic,Central Africa,15-24,Male,Primary,Urban,Married,0,Entry Level,Yes,Relocation issues,9.07
+Liberia,West Africa,55-64,Female,Secondary,Urban,Married,38,Senior,Yes,Family responsibilities,2.69
+Mauritius,East Africa,15-24,Male,Tertiary,Urban,Single,3,Mid Level,Yes,No jobs available,15.06
+Malawi,Southern Africa,15-24,Female,Secondary,Urban,Married,2,Mid Level,Yes,Lack of skills,13.31
+Lesotho,Southern Africa,15-24,Male,Primary,Rural,Single,1,Entry Level,No,Insecurity in region,33.65
+Libya,North Africa,55-64,Male,No formal education,Urban,Married,36,Senior,Yes,No jobs available,7.04
+Cameroon,Central Africa,55-64,Female,Tertiary,Rural,Widowed,23,Senior,Yes,Delay in recruitment,5.26
+Togo,West Africa,15-24,Male,Primary,Rural,Married,5,Mid Level,No,Skills mismatch,3.69
+Zimbabwe,Southern Africa,15-24,Female,Secondary,Urban,Single,1,Entry Level,Yes,No jobs available,21.9
+Senegal,West Africa,55-64,Male,No formal education,Urban,Married,23,Senior,Yes,Lack of capital,1.05
+Lesotho,Southern Africa,55-64,Male,Tertiary,Rural,Married,32,Senior,Yes,Cultural restrictions,18.85
+Mozambique,Southern Africa,25-34,Male,Secondary,Rural,Married,2,Mid Level,Yes,No jobs available,5.1
+South Africa,Southern Africa,25-34,Female,No formal education,Rural,Single,11,Senior,No,Business failure,32.34
+Mozambique,Southern Africa,25-34,Female,Secondary,Rural,Widowed,12,Senior,Yes,Training,6.37
+Comoros,East Africa,35-44,Female,Secondary,Rural,Married,6,Mid Level,No,No jobs available,5.18
+Central African Republic,Central Africa,55-64,Male,Secondary,Rural,Widowed,35,Senior,No,Waiting for government job,5.44
+Lesotho,Southern Africa,15-24,Female,Primary,Urban,Married,0,Entry Level,Yes,Health issues,30.62
+Somalia,East Africa,15-24,Female,No formal education,Rural,Single,2,Mid Level,No,No jobs available,35.85
+Uganda,East Africa,45-54,Female,Secondary,Urban,Married,29,Senior,Yes,Lack of work experience,2.13
+Sierra Leone,West Africa,35-44,Female,Tertiary,Rural,Married,7,Mid Level,Yes,Nepotism/favoritism,4.55
+Rwanda,East Africa,35-44,Female,No formal education,Rural,Married,22,Senior,No,No jobs available,7.99
+Guinea-Bissau,West Africa,15-24,Male,Tertiary,Rural,Single,2,Mid Level,No,Overqualification,9.99
+Algeria,North Africa,45-54,Female,Tertiary,Rural,Married,21,Senior,Yes,Poor transportation,14.08
+Ivory Coast,West Africa,35-44,Female,Primary,Urban,Married,22,Senior,Yes,No jobs available,1.4
+Gambia,West Africa,25-34,Male,Primary,Rural,Married,1,Entry Level,Yes,Skills mismatch,7.01
+Madagascar,East Africa,35-44,Male,Secondary,Urban,Married,5,Mid Level,Yes,Migration issues,2.47
+Tunisia,North Africa,35-44,Female,Primary,Urban,Single,22,Senior,Yes,No jobs available,11.1
+Eritrea,East Africa,35-44,Female,No formal education,Rural,Married,11,Senior,No,Lack of money,3.4
+South Africa,Southern Africa,15-24,Male,Tertiary,Urban,Married,2,Mid Level,Yes,Company downsizing,60
+Cape Verde,West Africa,55-64,Male,Tertiary,Urban,Widowed,30,Senior,Yes,No jobs available,9.93
+Swaziland,Southern Africa,15-24,Female,Tertiary,Urban,Single,2,Mid Level,Yes,Contract job ended,60
+Benin,West Africa,15-24,Female,Secondary,Rural,Single,1,Entry Level,Yes,Family responsibilities,6.03
+Rwanda,East Africa,45-54,Male,Tertiary,Rural,Widowed,25,Senior,No,No jobs available,12.39
+Sao Tome and Principe,Central Africa,55-64,Female,No formal education,Rural,Widowed,19,Senior,No,Technological changes,5.94
+Central African Republic,Central Africa,45-54,Female,Tertiary,Urban,Married,30,Senior,Yes,Health issues,5.71
+Djibouti,East Africa,15-24,Male,Secondary,Urban,Single,2,Mid Level,Yes,No jobs available,54.5
+Botswana,Southern Africa,15-24,Male,No formal education,Rural,Single,0,Entry Level,No,Lost hope,35.66
+Djibouti,East Africa,45-54,Female,Tertiary,Urban,Married,27,Senior,Yes,Lack of skills,24
+Botswana,Southern Africa,55-64,Female,Secondary,Rural,Single,40,Senior,No,No jobs available,25.41
+Guinea-Bissau,West Africa,25-34,Female,No formal education,Rural,Single,7,Mid Level,No,Relocation issues,2.74
+Mauritania,West Africa,55-64,Male,Primary,Urban,Married,33,Senior,Yes,Skills mismatch,5.05
+Niger,West Africa,35-44,Male,Secondary,Rural,Married,17,Senior,Yes,No jobs available,0.12
+Central African Republic,Central Africa,55-64,Female,Secondary,Urban,Single,25,Senior,No,Poor internet access,5.02
+Central African Republic,Central Africa,35-44,Female,No formal education,Rural,Single,14,Senior,No,Lack of capital,3.93
+Republic of Congo,Central Africa,25-34,Male,Secondary,Urban,Single,4,Mid Level,Yes,No jobs available,21.99
+Zambia,Southern Africa,35-44,Female,Tertiary,Rural,Married,15,Senior,No,Training,9.31
+Namibia,Southern Africa,15-24,Female,Tertiary,Rural,Married,1,Entry Level,No,Insecurity in region,60
+Burkina Faso,West Africa,45-54,Female,Tertiary,Urban,Married,17,Senior,Yes,No jobs available,4.32
+Ethiopia,East Africa,35-44,Female,Secondary,Rural,Single,18,Senior,Yes,Delay in recruitment,3.88
+Ethiopia,East Africa,15-24,Female,Primary,Urban,Single,1,Entry Level,Yes,Family responsibilities,6.17
+Zimbabwe,Southern Africa,55-64,Male,Tertiary,Rural,Married,30,Senior,No,No jobs available,10.31
+Rwanda,East Africa,45-54,Female,Secondary,Urban,Married,21,Senior,Yes,Business failure,8.5
+Gabon,Central Africa,55-64,Male,Tertiary ,Rural,Married,31,Senior,Yes,Overqualification,18.43
+Mauritius,East Africa,15-24,Female,Primary,Rural,Divorced,4,Mid Level,Yes,Gender discrimination ,13.71
+Liberia,West Africa,15-24,Female,Primary,Rural,Single,1,Entry Level,No,Poor access to electricity,7.69
+Cameroon,Central Africa,45-54,Male,Secondary,Urban,Widowed,30,Senior,Yes,High competition for jobs,2.18
+Senegal,West Africa,35-44,Female,Tertiary,Rural,Married,7,Mid Level,Yes,Lack of mentorship,4.59
+DR Congo,Central Africa,25-34,Female,No formal education,Urban,Single,12,Senior,Yes,Corruption in hiring process,3.17
+Togo,West Africa,15-24,Female,Tertiary,Urban,Divorced,3,Mid Level,No,Limited access to credit,6.46
+Central African Republic,Central Africa,15-24,Female,Primary,Urban,Single,0,Entry Level,Yes,Poor infrastructure,11.2
+Central African Republic,Central Africa,25-34,Female,Tertiary,Rural,Married,11,Senior,Yes,Lack of internships,13.28
+Rwanda,East Africa,15-24,Female,No formal education,Urban,Married,1,Entry Level,No,Gender discrimination,17.28
+Mozambique,Southern Africa,35-44,Male,Secondary,Rural,Married,11,Senior,No,High transportation cost,3.91
+Guinea,West Africa,45-54,Female,Tertiary,Rural,Married,26,Senior,No,Weak economic growth,6.31
+Comoros,East Africa,45-54,Female,Secondary,Urban,Divorced,17,Senior,Yes,Poor quality education,3.11
+Chad,Central Africa,55-64,Male,Secondary,Rural,Married,16,Senior,Yes,Age discrimination,0.5
+Chad,Central Africa,35-44,Female,No formal education,Rural,Married,21,Senior,Yes,Closure of industries,0.83
+Equatorial Guinea,Central Africa,15-24,Female,No formal education,Rural,Married,5,Mid Level,No,Lack of digital skills,15.25
+Morocco,North Africa,25-34,Male,Tertiary,Rural,Married,3,Mid Level,No,Unstable government policies,16.62
+Sierra Leone,West Africa,55-64,Female,No formal education,Urban,Widowed,32,Senior,Yes,Low wages discouraging job search,1.07
+Djibouti,East Africa,25-34,Female,Tertiary,Rural,Married,1,Entry Level,Yes,Lack of vocational skills,59.14
+Chad,Central Africa,25-34,Female,No formal education,Urban,Married,4,Mid Level,No,Urban congestion,1.09
+Namibia,Southern Africa,25-34,Female,Primary,Rural,Married,7,Mid Level,No,Poor networking opportunities,25.61
+Togo,West Africa,25-34,Male,Tertiary,Rural,Married,9,Mid Level,Yes,Inconsistent power supply,3.29
+Gambia,West Africa,25-34,Female,Tertiary,Rural,Married,8,Mid Level,No,Brain drain,14.68
+Central African Republic,Central Africa,45-54,Male,No formal education,Rural,Widowed,26,Senior,No,Lack of innovation opportunities,2.4
+Tanzania,East Africa,25-34,Female,Tertiary,Rural,Widowed,12,Senior,No,Religious discrimination,6.09
+Cape Verde,West Africa,45-54,Female,Primary,Urban,Married,22,Senior,Yes,Limited job information,6.61
+Cape Verde,West Africa,25-34,Male,Primary,Rural,Married,7,Mid Level,No,High cost of starting a business,12.3
+Niger,West Africa,25-34,Male,Secondary,Urban,Single,4,Mid Level,Yes,Rural neglect,0.64
+Madagascar,East Africa,25-34,Male,Primary,Rural,Widowed,2,Mid Level,Yes,Delay in salary payments,2.84
+Malawi,Southern Africa,25-34,Male,Primary,Rural,Married,12,Senior,No,Unfavorable working conditions,5.11
+Niger,West Africa,15-24,Female,Primary,Urban,Single,1,Entry Level,No,Lack of career development,0.33
+Republic of Congo,Central Africa,55-64,Male,Tertiary,Rural,Widowed,23,Senior,Yes,Poor access to electricity,22.6
+Uganda,East Africa,35-44,Male,Secondary,Urban,Married,19,Senior,Yes,Limited access to credit,2.1
+Mauritius,East Africa,35-44,Female,Tertiary,Urban,Married,21,Senior,No,High competition for jobs,6.17
+Republic of Congo,Central Africa,45-54,Male,Secondary,Rural,Widowed,26,Senior,Yes,Poor infrastructure,16.08
+Egypt,North Africa,15-24,Female,Tertiary,Rural,Single,1,Entry Level,No,Lack of mentorship,32.15
+Sao Tome and Principe,Central Africa,25-34,Male,No formal education,Rural,Married,8,Mid Level,No,Corruption in hiring process,7.08
+Tunisia,North Africa,45-54,Female,Tertiary,Urban,Married,24,Senior,Yes,Gender discrimination,14.86
+Uganda,East Africa,25-34,Female,Primary,Rural,Married,5,Mid Level,No,Weak economic growth,3.38
+Guinea-Bissau,West Africa,45-54,Male,No formal education,Rural,Married,26,Senior,No,Lack of internships,1.14
+Ivory Coast,West Africa,15-24,Female,Tertiary,Urban,Single,2,Mid Level,Yes,High transportation cost,7.57
+Rwanda,East Africa,25-34,Female,Tertiary,Rural,Divorced,1,Entry Level,No,Poor quality education,28.04
+Burkina Faso,West Africa,25-34,Female,Tertiary,Urban,Single,10,Mid Level,Yes,Closure of industries,8.98
+Liberia,West Africa,55-64,Male,Primary,Urban,Married,26,Senior,Yes,Age discrimination,0.91
+Ghana,West Africa,25-34,Female,Tertiary,Urban,Married,10,Mid Level,Yes,Lack of digital skills,5.46
+Burundi,East Africa,25-34,Female,No formal education,Rural,Single,5,Mid Level,No,Unstable government policies,0.71
+Mauritius,East Africa,25-34,Male,No formal education,Rural,Married,7,Mid Level,No,Low wages discouraging job search,4.9
+Kenya,East Africa,25-34,Female,Secondary,Urban,Widowed,12,Senior,Yes,Urban congestion,7.67
+Ethiopia,East Africa,35-44,Male,No formal education,Urban,Married,13,Senior,Yes,Lack of vocational skills,1.86
+Equatorial Guinea,Central Africa,55-64,Male,Secondary,Rural,Widowed,20,Senior,No,Poor networking opportunities,7.17
+Uganda,East Africa,55-64,Male,Primary,Rural,Divorced,28,Senior,No,Brain drain,2.1
+Ethiopia,East Africa,45-54,Male,No formal education,Rural,Married,15,Senior,No,Inconsistent power supply,1.49
+Rwanda,East Africa,35-44,Male,Secondary,Rural,Married,14,Senior,No,Limited job information,12.01
+Sierra Leone,West Africa,25-34,Female,Primary,Urban,Married,11,Senior,No,Religious discrimination,3.48
+Togo,West Africa,35-44,Male,Primary,Rural,Married,15,Senior,No,Lack of innovation opportunities,1.6
+Zambia,Southern Africa,45-54,Male,Secondary,Rural,Widowed,17,Senior,No,Rural neglect,4.44
+Rwanda,East Africa,55-64,Male,Secondary,Urban,Married,29,Senior,Yes,High cost of starting a business,7.85
+Nigeria,West Africa,35-44,Female,Primary,Rural,Divorced,22,Senior,No,Unfavorable working conditions,3.06
+Republic of Congo,Central Africa,55-64,Female,No formal education,Urban,Married,17,Senior,Yes,Delay in salary payments,8.57
+Morocco,North Africa,35-44,Male,No formal education,Urban,Single,9,Mid Level,No,Lack of career development,3.96
+Mauritania,West Africa,15-24,Male,Tertiary,Rural,Married,1,Entry Level,Yes,Poor access to electricity,37.3
+Tanzania,East Africa,25-34,Male,No formal education,Urban,Married,8,Mid Level,Yes,Corruption in hiring process,1.38
+Botswana,Southern Africa,45-54,Female,No formal education,Urban,Married,14,Senior,No,High competition for jobs,9.01
+Ghana,West Africa,45-54,Female,Primary,Rural,Married,21,Senior,No,Limited access to credit,2.48
+Mauritius,East Africa,55-64,Female,Primary,Urban,Divorced,22,Senior,Yes,Poor infrastructure,2.96
+Egypt,North Africa,55-64,Male,Tertiary,Urban,Married,30,Senior,Yes,Lack of mentorship,5.74
+DR Congo,Central Africa,55-64,Female,No formal education,Rural,Married,26,Senior,No,Gender discrimination,2.58
+Ghana,West Africa,15-24,Female,Secondary,Urban,Single,1,Entry Level,No,Weak economic growth,8.23
+Cameroon,Central Africa,15-24,Male,Tertiary,Urban,Single,1,Entry Level,Yes,Lack of internships,9.62
+Egypt,North Africa,45-54,Male,No formal education,Urban,Married,16,Senior,No,Closure of industries,2.76
+Togo,West Africa,55-64,Female,Secondary,Rural,Married,40,Senior,No,Poor quality education,1.71
+Togo,West Africa,45-54,Female,Secondary,Rural,Single,16,Senior,No,Age discrimination,1.54
+Angola,Central Africa,35-44,Female,Secondary,Rural,Married,17,Senior,Yes,High transportation cost,18.6
+Malawi,Southern Africa,15-24,Male,No formal education,Urban,Single,3,Mid Level,No,Lack of digital skills,5.3
+Morocco,North Africa,45-54,Female,No formal education,Urban,Married,32,Senior,Yes,Unstable government policies,3.84
+Morocco,North Africa,55-64,Male,No formal education,Urban,Married,34,Senior,Yes,Low wages discouraging job search,3
+Nigeria,West Africa,55-64,Female,No formal education,Urban,Widowed,31,Senior,Yes,Urban congestion,1.4
+Mozambique,Southern Africa,55-64,Female,Primary,Urban,Married,17,Senior,Yes,Lack of vocational skills,1.7
+Togo,West Africa,45-54,Male,No formal education,Rural,Divorced,16,Senior,No,Brain drain,0.37
+Swaziland,Southern Africa,45-54,Female,No formal education,Rural,Widowed,22,Senior,No,Poor networking opportunities,17.95
+DR Congo,Central Africa,35-44,Male,Primary,Urban,Married,10,Mid Level,Yes,Inconsistent power supply,2.44
+Lesotho,Southern Africa,25-34,Male,Tertiary,Urban,Married,12,Senior,Yes,Limited job information,22.77
+Niger,West Africa,55-64,Male,No formal education,Rural,Married,28,Senior,Yes,Religious discrimination,0.15
+Egypt,North Africa,25-34,Male,Secondary,Urban,Divorced,3,Mid Level,Yes,Lack of innovation opportunities,8.21
+Zimbabwe,Southern Africa,15-24,Male,Tertiary,Rural,Single,0,Entry Level,Yes,High cost of starting a business,30.49
+Egypt,North Africa,35-44,Male,Secondary,Rural,Married,9,Mid Level,No,Rural neglect,7.13
+Mali,West Africa,35-44,Female,Tertiary,Rural,Married,8,Mid Level,Yes,Unfavorable working conditions,4.47
+Gabon,Central Africa,35-44,Male,Tertiary,Urban,Widowed,21,Senior,Yes,Delay in salary payments,19.7
+Libya,North Africa,15-24,Male,Primary,Urban,Married,1,Entry Level,No,Lack of career development,28.46
+Guinea-Bissau,West Africa,25-34,Male,Secondary,Rural,Married,9,Mid Level,No,Poor access to electricity,4.17
+Rwanda,East Africa,25-34,Male,Secondary,Urban,Married,6,Mid Level,Yes,High competition for jobs,13.01
+Zimbabwe,Southern Africa,35-44,Male,Secondary,Rural,Married,19,Senior,No,Corruption in hiring process,9.07
+South Africa,Southern Africa,55-64,Male,Primary,Urban,Divorced,32,Senior,No,Limited access to credit,16.61
+Libya,North Africa,45-54,Male,Tertiary,Urban,Married,16,Senior,Yes,Poor infrastructure,14.07
+Angola,Central Africa,55-64,Male,No formal education,Urban,Married,17,Senior,No,Lack of mentorship,5.25
+Kenya,East Africa,35-44,Male,Tertiary,Rural,Married,12,Senior,No,Gender discrimination,7.28
+Benin,West Africa,35-44,Female,Secondary,Rural,Married,10,Mid Level,Yes,Weak economic growth,2.61
+South Africa,Southern Africa,45-54,Female,No formal education,Urban,Married,14,Senior,Yes,Closure of industries,13.01
+Tunisia,North Africa,55-64,Female,Primary,Urban,Married,18,Senior,Yes,Lack of internships,9.21
+Comoros,East Africa,25-34,Male,No formal education,Rural,Married,11,Senior,No,Poor quality education,2.83
+Kenya,East Africa,35-44,Female,Tertiary,Rural,Married,20,Senior,No,Age discrimination,8.8
+Ivory Coast,West Africa,55-64,Female,Primary,Rural,Married,28,Senior,No,High transportation cost,1.36
+Swaziland,Southern Africa,35-44,Female,Secondary,Rural,Divorced,14,Senior,No,Lack of digital skills,43.29
+Zambia,Southern Africa,35-44,Male,Tertiary,Rural,Widowed,11,Senior,No,Unstable government policies,8.01
+Mauritius,East Africa,25-34,Female,Primary,Rural,Married,2,Mid Level,Yes,Low wages discouraging job search,6.86
+Libya,North Africa,55-64,Female,Primary,Urban,Married,19,Senior,Yes,Urban congestion,11.18
+Djibouti,East Africa,55-64,Female,Tertiary,Rural,Married,17,Senior,No,Lack of vocational skills,37.02
+Togo,West Africa,55-64,Male,Tertiary,Urban,Married,38,Senior,Yes,Brain drain,2.03
+Algeria,North Africa,45-54,Male,No formal education,Rural,Married,12,Senior,No,Poor networking opportunities,4.62
+Madagascar,East Africa,45-54,Male,Primary,Urban,Married,20,Senior,Yes,Inconsistent power supply,0.86
+Madagascar,East Africa,25-34,Female,Primary,Rural,Married,12,Senior,No,Limited job information,4.42
+Burundi,East Africa,55-64,Female,Tertiary,Urban,Married,29,Senior,Yes,Religious discrimination,1.21
+Equatorial Guinea,Central Africa,45-54,Male,Secondary,Rural,Married,25,Senior,Yes,Lack of innovation opportunities,5.95
+Tanzania,East Africa,35-44,Female,Secondary,Rural,Married,9,Mid Level,No,High cost of starting a business,3.59
+Comoros,East Africa,15-24,Female,Primary,Rural,Married,3,Mid Level,No,Rural neglect,9.81
+Gabon,Central Africa,15-24,Male,Secondary,Urban,Married,1,Entry Level,No,Unfavorable working conditions,41.95
+Senegal,West Africa,55-64,Female,Tertiary,Rural,Widowed,34,Senior,No,Delay in salary payments,3.86
+Angola,Central Africa,25-34,Female,Tertiary,Rural,Single,6,Mid Level,No,Lack of career development,33.47
+Cape Verde,West Africa,35-44,Male,Secondary,Rural,Married,17,Senior,Yes,Poor economy ,12.64
+Botswana,Southern Africa,25-34,Male,Secondary,Urban,Married,2,Mid Level,Yes,High inflation rate,25.49
+Gabon,Central Africa,35-44,Female,Secondary,Rural,Married,13,Senior,Yes,Lack of government support,24.74
+Zambia,Southern Africa,25-34,Male,Primary,Rural,Married,11,Senior,Yes,Poor business environment,6.64
+Tanzania,East Africa,45-54,Male,Tertiary,Urban,Divorced,31,Senior,Yes,Policy inconsistency,1.5
+Burundi,East Africa,15-24,Female,No formal education,Rural,Single,0,Entry Level,No,Limited industrialization,2.14
+Somalia,East Africa,35-44,Male,Secondary,Urban,Married,19,Senior,Yes,Weak private sector growth,14.03
+Gabon,Central Africa,45-54,Male,Secondary,Rural,Married,22,Senior,No,High taxation on businesses,15.8
+Uganda,East Africa,45-54,Male,Secondary,Urban,Married,30,Senior,Yes,Lack of entrepreneurship training,1.34
+Mozambique,Southern Africa,35-44,Female,Secondary,Urban,Married,15,Senior,No,Dependence on oil sector,3.35
+Equatorial Guinea,Central Africa,55-64,Female,Primary,Rural,Married,19,Senior,Yes,Low investment levels,6.34
+Ethiopia,East Africa,25-34,Male,No formal education,Urban,Married,4,Mid Level,Yes,Poor economic planning,1.97
+Djibouti,East Africa,45-54,Male,Primary,Urban,Single,11,Senior,Yes,Lack of job security,11.07
+Tanzania,East Africa,45-54,Female,Primary,Rural,Married,32,Senior,No,Limited access to technology,2
+Burkina Faso,West Africa,15-24,Female,No formal education,Rural,Married,0,Entry Level,No,Weak education system,10.28
+Morocco,North Africa,25-34,Female,Primary,Rural,Married,2,Mid Level,No,Poor career awareness,11.31
+Egypt,North Africa,35-44,Female,No formal education,Rural,Married,15,Senior,No,Import dependency,4.59
+Kenya,East Africa,15-24,Male,Tertiary,Rural,Single,0,Entry Level,Yes,Skill obsolescence,19.73
+Lesotho,Southern Africa,55-64,Female,Secondary,Rural,Married,35,Senior,No,Poor wage structure,18.22
+Republic of Congo,Central Africa,15-24,Female,Tertiary,Urban,Single,2,Mid Level,Yes,Economic recession effects,60
+Libya,North Africa,25-34,Male,Secondary,Rural,Married,1,Entry Level,No,Lack of research and development,27.17
+Zambia,Southern Africa,55-64,Male,Secondary,Urban,Widowed,27,Senior,Yes,Inefficient labor market system,4.09
+Chad,Central Africa,15-24,Male,Primary,Urban,Single,4,Mid Level,Yes,High cost of living,1.25
+Madagascar,East Africa,45-54,Female,Secondary,Urban,Widowed,12,Senior,Yes,Weak institutional frameworks,2.04
+Guinea-Bissau,West Africa,45-54,Female,Tertiary,Urban,Single,25,Senior,Yes,Limited remote work opportunities,1.94
+Somalia,East Africa,15-24,Male,Primary,Urban,Single,1,Entry Level,No,Poor agricultural support,29.05
+Senegal,West Africa,25-34,Male,Tertiary,Urban,Married,12,Senior,Yes,Inadequate funding opportunities,3.94
+Morocco,North Africa,45-54,Male,No formal education,Urban,Married,30,Senior,Yes,Poor export performance,2.4
+Uganda,East Africa,55-64,Female,Primary,Urban,Divorced,30,Senior,No,Low productivity levels,1.97
+Mauritania,West Africa,45-54,Female,Tertiary,Rural,Married,20,Senior,No,Inequality in job distribution,13.24
+Niger,West Africa,15-24,Male,Secondary,Rural,Married,4,Mid Level,No,High inflation rate,1.16
+Sierra Leone,West Africa,55-64,Male,Tertiary,Rural,Married,17,Senior,No,Policy inconsistency,3.86
+Burkina Faso,West Africa,35-44,Male,No formal education,Urban,Married,17,Senior,Yes,Lack of government support,1.79
+Burkina Faso,West Africa,45-54,Male,Tertiary,Urban,Single,20,Senior,Yes,Poor business environment,3.47
+Chad,Central Africa,45-54,Male,Secondary,Rural,Married,31,Senior,Yes,Limited industrialization,0.65
+Tunisia,North Africa,15-24,Female,Secondary,Rural,Single,1,Entry Level,No,Weak private sector growth,56.35
+Eritrea,East Africa,45-54,Female,No formal education,Rural,Married,24,Senior,No,High taxation on businesses,2.96
+Burkina Faso,West Africa,35-44,Female,No formal education,Rural,Married,7,Mid Level,No,Dependence on oil sector,3.48
+Burkina Faso,West Africa,25-34,Male,Tertiary,Rural,Married,8,Mid Level,No,Low investment levels,9.57
+Gambia,West Africa,15-24,Female,Tertiary,Urban,Single,4,Mid Level,Yes,Poor economic planning,21.64
+Lesotho,Southern Africa,35-44,Male,Primary,Rural,Married,18,Senior,Yes,Lack of job security,11.77
+Egypt,North Africa,25-34,Female,No formal education,Rural,Divorced,12,Senior,No,Limited access to technology,7.12
+Ethiopia,East Africa,55-64,Male,Primary,Urban,Widowed,16,Senior,Yes,Weak education system,1.53
+Algeria,North Africa,15-24,Female,Secondary,Rural,Married,2,Mid Level,No,Poor career awareness,39.61
+Comoros,East Africa,25-34,Female,Tertiary,Rural,Single,4,Mid Level,Yes,Import dependency,8.88
+Zimbabwe,Southern Africa,45-54,Female,Primary,Urban,Married,18,Senior,Yes,Skill obsolescence,4.84
+Burkina Faso,West Africa,55-64,Female,Tertiary,Rural,Married,30,Senior,No,Poor wage structure,7.19
+Gambia,West Africa,45-54,Male,Secondary,Rural,Divorced,13,Senior,Yes,Economic recession effects,5.3
+Guinea,West Africa,35-44,Male,Primary,Urban,Widowed,17,Senior,Yes,Lack of research and development,3
+Cape Verde,West Africa,25-34,Female,Tertiary,Urban,Single,4,Mid Level,No,Inefficient labor market system,20.08
+Rwanda,East Africa,55-64,Female,No formal education,Urban,Widowed,21,Senior,Yes,High cost of living,5.21
+Malawi,Southern Africa,55-64,Female,Tertiary,Rural,Married,18,Senior,Yes,Weak institutional frameworks,6.99
+Cameroon,Central Africa,25-34,Female,Primary,Rural,Single,4,Mid Level,Yes,Limited remote work opportunities,4.28
+Gambia,West Africa,55-64,Male,Primary,Rural,Widowed,31,Senior,Yes,Poor agricultural support,4.61
+Somalia,East Africa,55-64,Female,Secondary,Urban,Divorced,32,Senior,No,Inadequate funding opportunities,15.14
+Republic of Congo,Central Africa,35-44,Male,Tertiary,Urban,Married,8,Mid Level,Yes,Poor export performance,19.14
+Zimbabwe,Southern Africa,35-44,Female,Primary,Rural,Married,14,Senior,Yes,Low productivity levels,7.35
+Guinea-Bissau,West Africa,15-24,Female,Tertiary,Urban,Single,0,Entry Level,Yes,Inequality in job distribution,8.3
+Sao Tome and Principe,Central Africa,15-24,Female,Primary,Urban,Married,0,Entry Level,No,Lack of entrepreneurship training,17.12
+Sierra Leone,West Africa,25-34,Male,Primary,Rural,Married,4,Mid Level,No,High inflation rate,3.46
+Lesotho,Southern Africa,35-44,Female,Tertiary,Urban,Married,20,Senior,No,Poor business environment,19.19
+Cameroon,Central Africa,35-44,Female,Primary,Rural,Married,5,Mid Level,No,Policy inconsistency,3.31
+Equatorial Guinea,Central Africa,25-34,Male,No formal education,Rural,Single,3,Mid Level,No,Limited industrialization,6.22
+Nigeria,West Africa,15-24,Male,Primary,Urban,Single,0,Entry Level,Yes,Weak private sector growth,4.47
+Kenya,East Africa,45-54,Male,Tertiary,Rural,Married,11,Senior,No,High taxation on businesses,5.33
+Ivory Coast,West Africa,45-54,Female,Primary,Urban,Married,16,Senior,Yes,Dependence on oil sector,1.55
+Liberia,West Africa,45-54,Female,Tertiary,Urban,Widowed,21,Senior,No,Low investment levels,2.62
+Malawi,Southern Africa,35-44,Female,No formal education,Rural,Married,14,Senior,No,Poor economic planning,3.75
+Swaziland,Southern Africa,25-34,Female,Primary,Urban,Married,6,Mid Level,No,Lack of job security,33.71
+Madagascar,East Africa,15-24,Male,Primary,Urban,Married,0,Entry Level,No,Limited access to technology,4.84
+Mali,West Africa,25-34,Female,No formal education,Rural,Married,4,Mid Level,No,Weak education system,3.32
+Swaziland,Southern Africa,25-34,Male,Tertiary,Urban,Married,3,Mid Level,Yes,Poor career awareness,47.98
+Tunisia,North Africa,45-54,Male,Secondary,Urban,Married,10,Mid Level,Yes,Import dependency,10.01
+Cape Verde,West Africa,15-24,Female,Primary,Rural,Single,0,Entry Level,Yes,Skill obsolescence,30.1
+Egypt,North Africa,55-64,Female,Primary,Urban,Married,27,Senior,Yes,Poor wage structure,4.53
+Guinea,West Africa,55-64,Male,Tertiary,Urban,Single,32,Senior,Yes,Economic recession effects,4.91
+Niger,West Africa,45-54,Female,Primary,Urban,Divorced,31,Senior,Yes,Lack of research and development,0.1
+Burundi,East Africa,45-54,Female,No formal education,Rural,Divorced,28,Senior,No,Inefficient labor market system,0.87
+Gabon,Central Africa,25-34,Male,Tertiary,Rural,Married,12,Senior,Yes,High cost of living,38.15
+Angola,Central Africa,55-64,Female,Tertiary,Urban,Married,31,Senior,Yes,Weak institutional frameworks,14.77
+Benin,West Africa,55-64,Female,Secondary,Urban,Married,31,Senior,Yes,Limited remote work opportunities,1.43
+Eritrea,East Africa,35-44,Male,Primary,Rural,Married,21,Senior,No,Poor agricultural support,4.32
+Cape Verde,West Africa,15-24,Male,Primary,Rural,Married,4,Mid Level,Yes,Inadequate funding opportunities,24.9
+Namibia,Southern Africa,55-64,Male,Tertiary,Rural,Widowed,38,Senior,No,Poor export performance,22.47
+Gambia,West Africa,45-54,Female,Secondary,Rural,Single,22,Senior,No,Low productivity levels,6.2
+Republic of Congo,Central Africa,15-24,Male,Secondary,Urban,Single,2,Mid Level,Yes,Inequality in job distribution,41.76
+Malawi,Southern Africa,35-44,Male,Primary,Rural,Married,11,Senior,No,Lack of entrepreneurship training,3.81
+Sierra Leone,West Africa,45-54,Male,Tertiary,Rural,Married,13,Senior,No,Policy inconsistency,3.05
+Madagascar,East Africa,55-64,Female,Primary,Rural,Married,32,Senior,Yes,High inflation rate,2.35
+Ghana,West Africa,55-64,Female,Secondary,Urban,Divorced,40,Senior,Yes,Poor business environment,2.95
+Uganda,East Africa,15-24,Female,No formal education,Urban,Single,1,Entry Level,No,Limited industrialization,3.79
+DR Congo,Central Africa,15-24,Female,Tertiary,Urban,Single,0,Entry Level,Yes,Weak private sector growth,14.84
+Morocco,North Africa,55-64,Female,Secondary,Urban,Married,34,Senior,Yes,High taxation on businesses,6.98
+Equatorial Guinea,Central Africa,35-44,Female,Secondary,Urban,Married,17,Senior,No,Dependence on oil sector,6.85
+Nigeria,West Africa,25-34,Female,Tertiary,Urban,Single,5,Mid Level,Yes,Low investment levels,5.47
+Senegal,West Africa,35-44,Male,Secondary,Urban,Widowed,12,Senior,Yes,Poor economic planning,2.61
+Guinea-Bissau,West Africa,55-64,Male,No formal education,Rural,Married,17,Senior,No,Lack of job security,1.64
+Uganda,East Africa,15-24,Male,Tertiary,Rural,Single,5,Mid Level,No,Limited access to technology,10.5
+Togo,West Africa,35-44,Female,Tertiary,Rural,Divorced,22,Senior,Yes,Weak education system,3.53
+Gambia,West Africa,55-64,Female,Secondary,Urban,Married,25,Senior,Yes,Poor career awareness,5.84
+Guinea,West Africa,15-24,Female,Primary,Urban,Single,0,Entry Level,Yes,Import dependency,9.43
+Sierra Leone,West Africa,45-54,Female,Tertiary,Urban,Divorced,17,Senior,Yes,Skill obsolescence,2.94
+Djibouti,East Africa,25-34,Male,Tertiary,Urban,Married,11,Senior,Yes,Poor wage structure,36.01
+Zimbabwe,Southern Africa,55-64,Female,Secondary,Rural,Married,20,Senior,No,Economic recession effects,9.74
+Gambia,West Africa,35-44,Female,Secondary,Urban,Married,14,Senior,Yes,Lack of research and development,5.57
+Ivory Coast,West Africa,55-64,Male,Tertiary,Urban,Married,29,Senior,Yes,Inefficient labor market system,2.1
+Zambia,Southern Africa,15-24,Male,Tertiary,Rural,Single,0,Entry Level,No,High cost of living,21.39
+Cameroon,Central Africa,25-34,Male,Primary,Rural,Married,10,Mid Level,No,Weak institutional frameworks,3.97
+Ethiopia,East Africa,45-54,Female,No formal education,Rural,Widowed,10,Mid Level,Yes,Limited remote work opportunities,1.98
+Nigeria,West Africa,45-54,Male,Primary,Rural,Married,26,Senior,No,Poor agricultural support,1.31
+Swaziland,Southern Africa,15-24,Male,No formal education,Urban,Single,2,Mid Level,No,Inadequate funding opportunities,39.25
+Ivory Coast,West Africa,25-34,Female,Secondary,Rural,Single,6,Mid Level,Yes,Poor export performance,4.2
+Guinea,West Africa,45-54,Male,No formal education,Urban,Married,10,Mid Level,No,Low productivity levels,1.56
+DR Congo,Central Africa,55-64,Male,No formal education,Urban,Widowed,37,Senior,No,Inequality in job distribution,2.02
+Namibia,Southern Africa,45-54,Male,No formal education,Rural,Single,30,Senior,Yes,Lack of entrepreneurship training,8.17
+Benin,West Africa,45-54,Male,No formal education,Urban,Divorced,19,Senior,Yes,High inflation rate,0.94
+Chad,Central Africa,55-64,Female,No formal education,Urban,Widowed,28,Senior,No,Policy inconsistency,0.74
+Gabon,Central Africa,45-54,Female,No formal education,Rural,Married,31,Senior,No,Poor business environment,10.16
+Namibia,Southern Africa,15-24,Male,Tertiary,Urban,Single,2,Mid Level,No,Limited industrialization,50.98
+Madagascar,East Africa,35-44,Female,Tertiary,Rural,Divorced,22,Senior,Yes,Weak private sector growth,5.18
+Mauritius,East Africa,45-54,Female,Tertiary,Urban,Married,15,Senior,Yes,High taxation on businesses,4.58
+Guinea,West Africa,25-34,Male,Tertiary,Rural,Single,1,Entry Level,No,Dependence on oil sector,9.37
+Senegal,West Africa,15-24,Female,No formal education,Rural,Single,1,Entry Level,No,Low investment levels,6.04
+South Africa,Southern Africa,55-64,Female,Secondary,Urban,Married,29,Senior,Yes,Poor economic planning,27.46
+Niger,West Africa,45-54,Male,Tertiary,Rural,Married,17,Senior,Yes,Lack of job security,0.1
+Comoros,East Africa,35-44,Male,Secondary,Urban,Married,22,Senior,Yes,Limited access to technology,2.9
+Eritrea,East Africa,25-34,Female,Primary,Rural,Married,8,Mid Level,No,Weak education system,7.79
+Tunisia,North Africa,15-24,Male,Secondary,Rural,Single,1,Entry Level,No,Poor career awareness,46.43
+Gabon,Central Africa,55-64,Female,Tertiary,Rural,Widowed,27,Senior,No,Import dependency,28.48
+Burundi,East Africa,25-34,Male,No formal education,Urban,Single,11,Senior,No,Skill obsolescence,0.62
+Somalia,East Africa,45-54,Male,Secondary,Rural,Divorced,23,Senior,No,Poor wage structure,15.05
+Liberia,West Africa,25-34,Female,No formal education,Rural,Single,9,Mid Level,No,Economic recession effects,2.54
+Gambia,West Africa,35-44,Male,Tertiary,Urban,Married,13,Senior,Yes,Lack of research and development,5.77
+Sierra Leone,West Africa,15-24,Male,No formal education,Urban,Married,0,Entry Level,No,Inefficient labor market system,3.9
+Mauritius,East Africa,55-64,Male,Tertiary,Urban,Married,31,Senior,Yes,High cost of living,4.54
+Tanzania,East Africa,15-24,Male,Primary,Rural,Single,3,Mid Level,No,Weak institutional frameworks,5.69
+Kenya,East Africa,45-54,Female,Primary,Urban,Married,19,Senior,Yes,Limited remote work opportunities,2.9
+Lesotho,Southern Africa,25-34,Female,Tertiary,Rural,Divorced,9,Mid Level,Yes,Poor agricultural support,37.13
+Swaziland,Southern Africa,55-64,Male,Primary,Rural,Married,16,Senior,No,Inadequate funding opportunities,23.13
+Republic of Congo,Central Africa,35-44,Female,Tertiary,Urban,Widowed,19,Senior,Yes,Poor export performance,22.95
+Namibia,Southern Africa,45-54,Female,Primary,Urban,Widowed,31,Senior,Yes,Low productivity levels,9.55
+Equatorial Guinea,Central Africa,45-54,Female,No formal education,Rural,Widowed,31,Senior,No,Inequality in job distribution,4.55
+Equatorial Guinea,Central Africa,25-34,Female,Tertiary,Urban,Single,7,Mid Level,No,Poor economy ,12.87
+Angola,Central Africa,45-54,Female,Primary,Rural,Widowed,14,Senior,No,Lack of government support,10.42
+Botswana,Southern Africa,35-44,Female,Secondary,Rural,Married,8,Mid Level,No,Policy inconsistency,28.58
+DR Congo,Central Africa,25-34,Male,Primary,Rural,Married,8,Mid Level,No,High inflation rate,4.76
+DR Congo,Central Africa,35-44,Female,Tertiary,Urban,Married,17,Senior,Yes,Limited industrialization,5.49
+Central African Republic,Central Africa,25-34,Male,Tertiary,Urban,Divorced,3,Mid Level,Yes,Poor agricultural support,8.49
+Morocco,North Africa,35-44,Female,Primary,Rural,Married,17,Senior,No,Lack of entrepreneurship training,8.53
+Sierra Leone,West Africa,15-24,Female,Secondary,Urban,Married,4,Mid Level,Yes,Inadequate funding opportunities,8.1
+Ghana,West Africa,15-24,Male,Tertiary,Urban,Single,0,Entry Level,Yes,Weak private sector growth,8.12
+Libya,North Africa,35-44,Female,Tertiary,Rural,Married,19,Senior,No,Dependence on oil sector,29.95
+Cape Verde,West Africa,35-44,Female,Tertiary,Urban,Married,13,Senior,Yes,Poor economic planning,13.58
+Kenya,East Africa,15-24,Female,Secondary,Rural,Single,0,Entry Level,Yes,Lack of job security,19.31
+Cameroon,Central Africa,45-54,Female,Primary,Rural,Single,26,Senior,No,Low investment levels,2.11
+Comoros,East Africa,55-64,Female,No formal education,Rural,Married,37,Senior,No,High taxation on businesses,2.39
+Tunisia,North Africa,25-34,Female,Secondary,Rural,Single,8,Mid Level,No,Import dependency,29.57
+Nigeria,West Africa,25-34,Male,No formal education,Rural,Married,11,Senior,No,Poor export performance,2.03
+Burundi,East Africa,55-64,Male,Primary,Rural,Married,30,Senior,No,Skill obsolescence,0.65
+Malawi,Southern Africa,55-64,Male,No formal education,Rural,Divorced,16,Senior,No,Lack of research and development,2.67
+Senegal,West Africa,45-54,Male,Tertiary,Rural,Married,26,Senior,No,Weak education system,3.29
+Somalia,East Africa,25-34,Female,Primary,Urban,Married,9,Mid Level,No,Poor career awareness,18.57
+DR Congo,Central Africa,45-54,Female,Tertiary,Urban,Married,20,Senior,Yes,Inefficient labor market system,4.35
+Gambia,West Africa,15-24,Male,No formal education,Urban,Married,0,Entry Level,Yes,Lack of public-private partnerships,7.43
+Liberia,West Africa,35-44,Female,Primary,Rural,Married,6,Mid Level,Yes,Economic recession effects,2.61
+Angola,Central Africa,25-34,Male,Primary,Rural,Single,8,Mid Level,Yes,Poor wage structure,15.65
+Libya,North Africa,45-54,Female,No formal education,Urban,Married,24,Senior,No,Limited access to technology,6.98
+Eritrea,East Africa,45-54,Male,Secondary,Rural,Married,25,Senior,Yes,Weak institutional frameworks,4.36
+Tanzania,East Africa,35-44,Male,Primary,Urban,Married,19,Senior,Yes,High cost of living,1.83
+Eritrea,East Africa,15-24,Female,Primary,Urban,Married,4,Mid Level,No,Limited remote work opportunities,10
+Comoros,East Africa,15-24,Male,Tertiary,Rural,Single,4,Mid Level,No,Poor business environment,14.13
+Zambia,Southern Africa,55-64,Female,Primary,Urban,Widowed,29,Senior,Yes,Low productivity levels,3.35
+Angola,Central Africa,15-24,Male,Primary,Rural,Single,2,Mid Level,No,Inequality in job distribution,30.34
+Gabon,Central Africa,25-34,Female,Tertiary,Urban,Married,4,Mid Level,Yes,Lack of job security,34.45
+Chad,Central Africa,35-44,Male,Tertiary,Rural,Married,22,Senior,Yes,Lack of government support,1.35
+Algeria,North Africa,35-44,Female,No formal education,Urban,Married,10,Mid Level,Yes,Policy inconsistency,5.8
+Liberia,West Africa,15-24,Male,Secondary,Rural,Married,0,Entry Level,No,High inflation rate,8.54
+Cameroon,Central Africa,55-64,Male,Secondary,Rural,Married,26,Senior,No,Limited industrialization,2.84
